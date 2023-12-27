@@ -1,6 +1,6 @@
 ---
 created: 2023-12-28T05:09:14+07:00
-modified: 2023-12-28T06:18:51+07:00
+modified: 2023-12-28T06:20:32+07:00
 type: Checklist
 ---
 
@@ -10,4 +10,5 @@ type: Checklist
 - [x] Cough recovery: Zuhause.
 - [x] Delete folder procedure (mk file, del on gh, sync on gj).
 - [ ] Writing Medium story.
-- [ ] Poly-func on plaintext.
+- [ ] Polynomial function on plaintext.
+- [ ] U3 FI1101-04 & 09 correction.
