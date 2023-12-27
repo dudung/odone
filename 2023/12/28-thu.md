@@ -1,6 +1,6 @@
 ---
 created: 2023-12-28T05:09:14+07:00
-modified: 2023-12-28T06:11:01+07:00
+modified: 2023-12-28T06:11:58+07:00
 type: Checklist
 ---
 
@@ -22,3 +22,4 @@ type: Checklist
 + Make file in folder.
 + Delete file on GitHub.
 + Synchronize files on GitJournal.
+- [x] GitJournal 2nd repo, 3rd install
